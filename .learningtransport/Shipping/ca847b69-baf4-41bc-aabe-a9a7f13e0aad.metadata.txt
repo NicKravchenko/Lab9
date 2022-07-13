@@ -1,0 +1,15 @@
+{
+  "NServiceBus.MessageId": "c6495e7b-a057-4508-93f8-aecb01752222",
+  "NServiceBus.MessageIntent": "Publish",
+  "NServiceBus.RelatedTo": "2e41fa1c-ac5c-4f8a-8d37-aecb017521d7",
+  "NServiceBus.ConversationId": "305e76eb-d76b-4c8e-bc4f-aecb017521db",
+  "NServiceBus.CorrelationId": "2e41fa1c-ac5c-4f8a-8d37-aecb017521d7",
+  "NServiceBus.ReplyToAddress": "Sales",
+  "NServiceBus.OriginatingMachine": "DESKTOP-6RGJF6N",
+  "NServiceBus.OriginatingEndpoint": "Sales",
+  "$.diagnostics.originating.hostid": "599a959ca87f9308f350aae6e0ade6d1",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "Messages.OrderPlaced, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "7.7.3",
+  "NServiceBus.TimeSent": "2022-07-07 22:38:32:252353 Z"
+}
